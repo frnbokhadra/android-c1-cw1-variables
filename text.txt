@@ -1,0 +1,8 @@
+ {
+	    String x="fahad";
+	    int y= 17;
+	    String z="tennis";
+	    System.out.println(x + " "+y+ " "+ z);
+	
+	
+	}
